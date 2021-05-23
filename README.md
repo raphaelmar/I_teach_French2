@@ -42,7 +42,7 @@ The design makes it straightforward for users to access the main feature of the 
     * The user can scroll through the resource collection or use the search function to acess a specific resource, this can be done in French or English
 * Donations page
     * The user is given the opportunity to donate 5€ to encourage resources creation and sharing, if they change their mind they can return to the main site via the navbar, if they choose to go forward with their donation, they are redirect to the Stripe checkout page where they can enter their card details. After a successful transaction they are redirected to the success page.
-    ![succesful stripe transactions](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+    ![succesful stripe transactions](/media/stripe_payment.jpg)
 
 ## Features left to implement
 
