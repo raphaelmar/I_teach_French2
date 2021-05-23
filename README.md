@@ -25,7 +25,7 @@ As the owner of the site
 
 ### design choices
 
-The design makes it straightforward for users to access the main feature of the site, the resources. Once their account is created, they land on the home page where they have 2 options, go to the collection or donate, they can do so via the navbar or via in-text links. If they want to donate they are redirect to Stripe's checkout where they are invited to enter their card's details to donate 5€. If they go to the resources they can scroll through the bank of resources or enter key words in the search bar to quickly access resources that might be of interest, should they find something of interest they can just click on the download button. They can go back to the home page at any time by clicking on I Teach French in the bar. The bar and the reources page are responsive and display well on mobiles tablets and laptops. The color scheme is pure black and white for ease of reading and the site's background displays a photo of Paris to match with the site's target language.
+The design makes it straightforward for users to access the main feature of the site, the resources. Once their account is created (again, a straightforward non-intrusive process, not requiring the use of personal data), they land on the home page where they have 2 options, go to the collection or donate, they can do so via the navbar or via in-text links. If they want to donate they are redirect to Stripe's checkout where they are invited to enter their card's details to donate 5€. If they go to the resources they can scroll through the bank of resources or enter key words in the search bar to quickly access resources that might be of interest, should they find something of interest they can just click on the download button. They can go back to the home page at any time by clicking on I Teach French in the bar. The bar and the resources page are responsive and display well on mobiles tablets and laptops. The color scheme is pure black and white for ease of reading and the site's background displays a photo of Paris to match with the site's target language.
 
 
 ## Features
@@ -42,6 +42,7 @@ The design makes it straightforward for users to access the main feature of the 
     * The user can scroll through the resource collection or use the search function to acess a specific resource, this can be done in French or English
 * Donations page
     * The user is given the opportunity to donate 5€ to encourage resources creation and sharing, if they change their mind they can return to the main site via the navbar, if they choose to go forward with their donation, they are redirect to the Stripe checkout page where they can enter their card details. After a successful transaction they are redirected to the success page.
+    ![succesful stripe transactions](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 ## Features left to implement
 
